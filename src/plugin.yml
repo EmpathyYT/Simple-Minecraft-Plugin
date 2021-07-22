@@ -1,0 +1,15 @@
+name: potat
+main: derp1.tut.derp
+version: 420.69.42069
+description: yes.
+author: easports
+commands:
+  changeteam:
+  godboots:
+  hello:
+  doctor:
+  quacktrident:
+  quacksword:
+  launch:
+    aliases: lnch
+    
